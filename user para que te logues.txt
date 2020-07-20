@@ -1,0 +1,13 @@
+usuario: alumno.unajma@gmail.com
+password: 123456
+
+
+
+***tambien puedes crearte un nuevo usuario***
+***y lo hice segun pide la practica que pide ingresar login crear notas de tu diario
+  buscar,atualizar,poner la fecha y logout***** 
+**solo faltaria darle belleza con css y aplicando mas html ing... hice lo que pude 
+espero sea de su agrado mi trabajo..
+**gracias me ayudo mucho en como buscar codigos y asi  hacer un frankenstein**
+
+Alumno:Anthony Zevallos Rodriguez
